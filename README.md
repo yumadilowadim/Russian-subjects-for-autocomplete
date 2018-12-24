@@ -1,4 +1,4 @@
-# Russian Subjects Autocomplete
+# Russian Subjects for autocomplete
 
 All Russian Federation subjects in JQUERY UI [autocomplete]
 
